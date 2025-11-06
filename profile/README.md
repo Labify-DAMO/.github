@@ -37,3 +37,20 @@ Labify는 연구실, 실험실 등에서 발생하는 복잡한 폐기물 처리
 ```
                                    
 ## 🛠️ 기술 스택
+
+| 분야 | 기술 스택 |
+|:----:|:-----------|
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Frontend** | ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white) |
+| **AI Server** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+
+
+<br>
+
+## 👥 팀원
+
+| <img src="https://github.com/ownue.png" width="100" height="100"> | <img src="https://github.com/spacefoul.png" width="100" height="100"> | <img src="https://github.com/nayun0724.png" width="100" height="100"> | <img src="https://github.com/romdyfo.png" width="100" height="100"> | <img src="#" width="100" height="100"> |
+|:---:|:---:|:---:|:---:|:---:|
+| **이은우** | **강예현** | **권나윤** | **김지희** | **임혜린** |
+| 팀장 / 백엔드 개발 | 프론트엔드 개발 | AI 개발 | 백엔드 개발 | 디자이너 |
+| [GitHub](https://github.com/ownue) | [GitHub](https://github.com/spacefoul) | [GitHub](https://github.com/nayun0724) | [GitHub](https://github.com/romdyfo) | [Portfolio](#) |
