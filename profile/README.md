@@ -49,8 +49,8 @@ Labify는 연구실, 실험실 등에서 발생하는 복잡한 폐기물 처리
 
 ## 👥 팀원
 
-| <img src="https://github.com/ownue.png" width="100" height="100"> | <img src="https://github.com/spacefoul.png" width="100" height="100"> | <img src="https://github.com/nayun0724.png" width="100" height="100"> | <img src="https://github.com/romdyfo.png" width="100" height="100"> | <img src="#" width="100" height="100"> |
+| <img src="https://github.com/ownue.png" width="100" height="100"> | <img src="https://github.com/spacefoul.png" width="130" height="130"> | <img src="https://github.com/nayun0724.png" width="130" height="130"> | <img src="https://github.com/romdyfo.png" width="130" height="130"> | <img src="https://github.com/user-attachments/assets/47a3e6ac-39a3-41c8-bfa0-75f7b62be8ee" width="130" height="130"> |
 |:---:|:---:|:---:|:---:|:---:|
 | **이은우** | **강예현** | **권나윤** | **김지희** | **임혜린** |
 | 팀장 / 백엔드 개발 | 프론트엔드 개발 | AI 개발 | 백엔드 개발 | 디자이너 |
-| [GitHub](https://github.com/ownue) | [GitHub](https://github.com/spacefoul) | [GitHub](https://github.com/nayun0724) | [GitHub](https://github.com/romdyfo) | [Portfolio](#) |
+| <a href="https://github.com/ownue"><img src="http://img.shields.io/badge/ownue-green?style=social&logo=github"/></a> | <a href="https://github.com/spacefoul"><img src="http://img.shields.io/badge/spacefoul-green?style=social&logo=github"/></a> | <a href="https://github.com/nayun0724"><img src="http://img.shields.io/badge/nayun0724-green?style=social&logo=github"/></a> | <a href="https://github.com/romdyfo"><img src="http://img.shields.io/badge/romdyfo-green?style=social&logo=github"/></a> | [Portfolio](#) |
